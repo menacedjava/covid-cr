@@ -1,2 +1,2 @@
 # covid-cr
-covid-crystall-app
+covid-crystall-application
